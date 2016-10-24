@@ -1,0 +1,19 @@
+知识点
+	new 操作符重载
+	delete操作符重载
+	__FILE__、__LINE__ 预定义宏
+	头文件中的静态变量
+	
+	构造函数
+	析构函数
+	链表
+	类
+	对象
+	sizeof
+	
+	std::shared_ptr 智能指针
+	虚函数
+	
+	异常
+	noexcept
+	
